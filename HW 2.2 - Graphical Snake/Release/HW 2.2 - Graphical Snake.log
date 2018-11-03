@@ -1,5 +1,0 @@
-﻿  pch.cpp
-  main.cpp
-y:\source\repos\2181-igme209-01-wolschon\hw 2.2 - graphical snake\hw 2.2 - graphical snake\main.cpp(6): fatal error C1083: Cannot open include file: 'Box2D/Box2D.h': No such file or directory
-  snake.cpp
-y:\source\repos\2181-igme209-01-wolschon\hw 2.2 - graphical snake\hw 2.2 - graphical snake\snake.h(5): fatal error C1083: Cannot open include file: 'Box2D/Box2D.h': No such file or directory
